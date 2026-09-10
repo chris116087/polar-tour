@@ -3,7 +3,7 @@
 ## 介面
 
 ### 圖片
-Image_0D25C7B1_2FC2_46F3_4184_F4712F930CB8.url = skin/Image_0D25C7B1_2FC2_46F3_4184_F4712F930CB8_zh.png
+Image_B141F710_8D53_69C6_41AB_6D9E18025E8A.url = skin/Image_B141F710_8D53_69C6_41AB_6D9E18025E8A_zh.png
 
 ### 多行文字
 HTMLText_5032240F_5DEE_51AD_41D3_C2FB9B692B70.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.3);line-height:100%;text-align:left;font-size:6.33879781420765vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.34vmin;font-family:'GenYoMin2 JP R';"><B>極地探險</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.3);line-height:100%;text-align:left;font-size:2.8415300546448083vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.84vmin;font-family:'League Spartan';"><B> Exploring the Poles</B></SPAN></SPAN></DIV></div>
@@ -22,10 +22,10 @@ Button_0826BD0F_2FC2_4BAE_4162_A2096EAE460C.label = 零 下 日 誌
 ## 媒體
 
 ### 圖片
-imlevel_BAE46C05_8D52_9FCE_41B0_C409C8BDB8FC.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_0.webp
-imlevel_BAE41C06_8D52_9FCA_41D7_B015CC04E71C.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_1.webp
-imlevel_BAE40C07_8D52_9FCA_41BD_3D263E819BBF.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_2.webp
-imlevel_BAE43C08_8D52_9FC6_41D4_E7FE0451D6CB.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_3.webp
+imlevel_CC4670F6_8DAE_A84A_41A2_3FEF6E0050B9.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_0.webp
+imlevel_CC4640F8_8DAE_A846_41D4_9BB191DE9320.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_1.webp
+imlevel_CC4650F9_8DAE_A846_41E0_D8F40593FDFC.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_2.webp
+imlevel_CC4630FA_8DAE_A83A_41DA_4468607248E9.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_3.webp
 imlevel_D40A0182_8A2B_E436_41CE_0985CA44EA8F.url = media/panorama_2AF5E924_279B_3EC8_418A_F1F51B968F73_HS_04ghv0dm_zh.webp
 imlevel_B7B55F55_8A7A_DCD2_41C0_D3BCECC87B8B.url = media/panorama_2AF5E924_279B_3EC8_418A_F1F51B968F73_HS_m6boncp1_zh.webp
 imlevel_72642056_61C7_8606_41C3_583FDAB5EE27.url = media/panorama_2AF5E924_279B_3EC8_418A_F1F51B968F73_HS_rde43rri_zh.webp
@@ -129,9 +129,9 @@ imlevel_9D0256A3_8AD3_A99B_4183_F179E5929936.url = media/popup_C6A46197_8EDF_645
 imlevel_9D02A6A4_8AD3_A99D_41C4_C9BD054922C3.url = media/popup_C6A46197_8EDF_645C_41E0_164D08CA3F35_zh_0_2.webp
 imlevel_92E3D460_8AD3_A895_419D_C2A385EDA76D.url = media/popup_CD2A43DC_8AFD_6FD6_41C1_C6A63DC0E2C4_zh_0_0.webp
 imlevel_92E3C461_8AD3_A897_41D8_99C68CAEC307.url = media/popup_CD2A43DC_8AFD_6FD6_41C1_C6A63DC0E2C4_zh_0_1.webp
-imlevel_BAED1D21_8D52_99C7_4197_3D5CCA62E014.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_0.png
-imlevel_BAED0D22_8D52_99C5_41A8_CEAD7C645796.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_1.png
-imlevel_BAED2D22_8D52_99C5_41BA_14959B5CD320.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_2.png
+imlevel_CC59D221_8DAE_ABC6_41BB_85989ED191C1.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_0.png
+imlevel_CC59B222_8DAE_ABCA_41C1_F8D230E3C38E.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_1.png
+imlevel_CC598223_8DAE_ABCA_41B2_1C54E697F9F2.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_2.png
 
 ### 平面圖
 
