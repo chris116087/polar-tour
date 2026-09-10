@@ -22,10 +22,10 @@ Button_0826BD0F_2FC2_4BAE_4162_A2096EAE460C.label = OVERVIEW
 ## 媒體
 
 ### 圖片
-imlevel_FA834439_8EEA_AC52_41D6_463482C73B42.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_0.webp
-imlevel_FA83643E_8EEA_AC4E_41DD_5A244E16FC40.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_1.webp
-imlevel_FA837442_8EEA_AC36_41C1_6FE8D493F80F.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_2.webp
-imlevel_FA83A447_8EEA_AC3E_41DB_D55FEB9BE3EC.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_3.webp
+imlevel_B8D3E60D_8B72_ABD5_41DA_90EFACD913AE.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_0.webp
+imlevel_B8D3C60E_8B72_ABD4_41E0_9C8B7F4B6AF1.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_1.webp
+imlevel_B8D3D60F_8B72_ABD5_41D1_39682790074E.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_2.webp
+imlevel_B8D33610_8B72_ABCB_41A1_443F2BE14EB0.url = media/map_3998465C_32B7_6A9E_41C7_E04E8141F31B_zh_3.webp
 imlevel_D40A0182_8A2B_E436_41CE_0985CA44EA8F.url = media/panorama_2AF5E924_279B_3EC8_418A_F1F51B968F73_HS_04ghv0dm_zh.webp
 imlevel_B7B55F55_8A7A_DCD2_41C0_D3BCECC87B8B.url = media/panorama_2AF5E924_279B_3EC8_418A_F1F51B968F73_HS_m6boncp1_zh.webp
 imlevel_72642056_61C7_8606_41C3_583FDAB5EE27.url = media/panorama_2AF5E924_279B_3EC8_418A_F1F51B968F73_HS_rde43rri_zh.webp
@@ -34,7 +34,7 @@ imlevel_2788C5DA_329F_699A_418D_DF8A64B49F08.url = media/panorama_2BB84130_2799_
 imlevel_323D222A_2FCF_D996_419E_5898B5621B4C.url = media/panorama_2BB84130_2799_0EC9_41B0_1AA4C05220FA_HS_eigzt5ol_zh.webp
 imlevel_323B61F1_2FCF_DA72_4197_4699535F8FAD.url = media/panorama_2BB84130_2799_0EC9_41B0_1AA4C05220FA_HS_iwdr8qvc_zh.webp
 imlevel_323951C7_2FCF_DA9F_41AD_634FB331A5E8.url = media/panorama_2BB84130_2799_0EC9_41B0_1AA4C05220FA_HS_jwqc3fk4_zh.webp
-imlevel_B1C92C0A_8AED_5833_41DC_0442FFECDB88.url = media/panorama_2BB84130_2799_0EC9_41B0_1AA4C05220FA_HS_m6ok8m2v_zh.webp
+imlevel_94BF01E3_8B73_A81A_41BE_0110A462D93C.url = media/panorama_2BB84130_2799_0EC9_41B0_1AA4C05220FA_HS_m6ok8m2v_zh.webp
 imlevel_32068173_2FCF_DA77_41AD_A956F562590F.url = media/panorama_2BB84130_2799_0EC9_41B0_1AA4C05220FA_HS_s438tcet_zh.webp
 imlevel_323F026D_2FCF_D992_41C3_7E19142ABF4E.url = media/panorama_2BB84130_2799_0EC9_41B0_1AA4C05220FA_HS_w0mlxj74_zh.webp
 imlevel_7E6A1F88_603B_9A0A_41C4_46782C18E710.url = media/panorama_2BB84CA5_2799_17CB_41B9_E87D18373EE4_HS_ffrya2lb_zh.webp
@@ -57,50 +57,50 @@ imlevel_320CD03D_2FCF_D9F2_41BE_802081980E05.url = media/panorama_2BB8D65C_2799_
 imlevel_320210E6_2FCF_DA91_4186_DDC442C9B0B6.url = media/panorama_2BB8D65C_2799_7379_41B3_7D84F2BAFB67_HS_lri4a7z0_zh.webp
 imlevel_320050B4_2FCF_DAF2_41C0_2FEB69C8753F.url = media/panorama_2BB8D65C_2799_7379_41B3_7D84F2BAFB67_HS_o4tfy7rf_zh.webp
 imlevel_320ED076_2FCF_DA7E_41C3_5864B76AC9D3.url = media/panorama_2BB8D65C_2799_7379_41B3_7D84F2BAFB67_HS_tdwb81a3_zh.webp
-imlevel_B1F6EC71_8AFE_B8D1_41A0_392B625807D5.url = media/panorama_2BB8D65C_2799_7379_41B3_7D84F2BAFB67_HS_wbcy15yn_zh.webp
+imlevel_AF3AEBCC_8B73_B82E_41AE_25F4C879893C.url = media/panorama_2BB8D65C_2799_7379_41B3_7D84F2BAFB67_HS_wbcy15yn_zh.webp
 imlevel_7E2D2B7A_603B_BA0E_41D7_34C7CB0CA527.url = media/panorama_2BB8D688_279B_13D8_41BE_BF0E52ED80CF_HS_wigc5rbq_zh.webp
-imlevel_B216B6CB_8A2F_6C36_41D9_39500D3D43E4.url = media/panorama_2BB8DCE0_2799_1748_4199_E454308471F5_HS_0gpidw3h_zh.webp
+imlevel_95062308_8B73_A816_41D2_1B6C3D4B276B.url = media/panorama_2BB8DCE0_2799_1748_4199_E454308471F5_HS_0gpidw3h_zh.webp
 imlevel_3209DFFA_2FCF_C676_41B8_75DA3A162EED.url = media/panorama_2BB8DCE0_2799_1748_4199_E454308471F5_HS_zjwhz45u_zh.webp
-imlevel_C821DE5C_8A27_5CD2_4186_EADF4548074E.url = media/panorama_2BB90185_279B_11C8_41C0_A429D71A16A8_HS_dw7ro6vb_zh.webp
-imlevel_D8E617A9_8A25_6C75_41E0_509115034D21.url = media/panorama_2BB90185_279B_11C8_41C0_A429D71A16A8_HS_f1jx7vj3_zh.webp
-imlevel_CD43F7D6_8A3F_ABDF_41E0_E00642C3671F.url = media/panorama_2BB90185_279B_11C8_41C0_A429D71A16A8_HS_gtd8jbz3_zh.webp
-imlevel_C8241C16_8A27_5C5E_41C1_30870A2B5AEC.url = media/panorama_2BB90185_279B_11C8_41C0_A429D71A16A8_HS_gv4syk6t_zh.webp
-imlevel_CD46CBA2_8A3F_A476_41A8_EBCF97946EB2.url = media/panorama_2BB90185_279B_11C8_41C0_A429D71A16A8_HS_q422a7jd_zh.webp
+imlevel_90C5C892_8B5F_785D_41B8_696697A48A83.url = media/panorama_2BB90185_279B_11C8_41C0_A429D71A16A8_HS_dw7ro6vb_zh.webp
+imlevel_90C06503_8B5F_6842_41CB_B37A0288CD99.url = media/panorama_2BB90185_279B_11C8_41C0_A429D71A16A8_HS_f1jx7vj3_zh.webp
+imlevel_96436D59_8B5F_78CF_41CA_C39891BAE625.url = media/panorama_2BB90185_279B_11C8_41C0_A429D71A16A8_HS_gtd8jbz3_zh.webp
+imlevel_9147568F_8B5F_6843_4181_BCE559A82662.url = media/panorama_2BB90185_279B_11C8_41C0_A429D71A16A8_HS_gv4syk6t_zh.webp
+imlevel_96414110_8B5F_685D_41A9_07ABBAF98A4F.url = media/panorama_2BB90185_279B_11C8_41C0_A429D71A16A8_HS_q422a7jd_zh.webp
 imlevel_7E3AB8F7_603B_8606_41A9_405D9CD0CE6B.url = media/panorama_2BB91DDC_279B_1178_4182_7BD038AF2D2C_HS_n9gq01zs_zh.webp
 imlevel_324D8563_2FCE_3B96_41BF_AC75E1AAD1D6.url = media/panorama_2BB91DDC_279B_1178_4182_7BD038AF2D2C_HS_w5kur0bo_zh.webp
-imlevel_C6D8F3F0_8E2A_EBD2_41BC_4B76B23F49C6.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_31g0uevk_zh.webp
+imlevel_978F0ECE_8B73_982B_41D1_099E74B0B107.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_31g0uevk_zh.webp
 imlevel_7E3429E2_603B_863E_41BF_CC7D20FF2EE3.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_3xwkah4m_zh.webp
 imlevel_C6D1959E_8E2A_EC4E_41CF_941CF3BDD12D.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_4x77wlz5_zh.webp
-imlevel_C6D04557_8E2A_ECDD_41C4_D78FEB4EA6C0.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_8xm9iff2_zh.webp
-imlevel_C6DCD4EA_8E2A_EDF6_41DB_039FAEFBECF6.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_bhk2z0jb_zh.webp
+imlevel_97817015_8B73_A83E_41D4_262F46869E36.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_8xm9iff2_zh.webp
+imlevel_978EAFAD_8B73_9869_41D4_3E668AEA6948.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_bhk2z0jb_zh.webp
 imlevel_C6D475D7_8E2A_EFDE_41BB_7365DF82F56D.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_bin6px3g_zh.webp
 imlevel_327928EF_2FCF_CA6E_41B0_712129D79F78.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_gzf7q3wy_zh.webp
 imlevel_C6D7B651_8E2A_ECD2_41CE_4D2F1B69F65C.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_ibnp0mep_zh.webp
 imlevel_C6C9C698_8E2A_EC53_41CC_64C4B9C16518.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_lq39k63s_zh.webp
-imlevel_C6E60327_8E2A_E47D_41DB_288A5D93A707.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_ti5ni5oi_zh.webp
-imlevel_C6DA4472_8E2A_ECD6_41D3_D5AE940EBF34.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_u49atdnb_zh.webp
+imlevel_978F5DFF_8B73_9BE9_41DD_141C43849708.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_ti5ni5oi_zh.webp
+imlevel_978EFF4A_8B73_982B_41E1_3956DA115763.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_u49atdnb_zh.webp
 imlevel_C6D62614_8E2A_EC52_41D0_692EDB65FE8D.url = media/panorama_2BB93590_279B_31C8_4193_D73329B6BF3D_HS_wlazlgd8_zh.webp
 imlevel_3215FF7A_2FCF_C676_41B9_4A1DD07BFFCF.url = media/panorama_2BB939D9_2799_317B_41B5_76DEBBC71552_HS_5cwpnvpo_zh.webp
-imlevel_40DBB45D_603B_8E0A_41C0_3A9B3986E988.url = media/panorama_2BB939D9_2799_317B_41B5_76DEBBC71552_HS_b3a2n1xy_zh.webp
+imlevel_9780E066_8B73_A81B_41B7_D1FC7F701A73.url = media/panorama_2BB939D9_2799_317B_41B5_76DEBBC71552_HS_b3a2n1xy_zh.webp
 imlevel_7E602148_603B_860A_41D4_3DFC0D6BA9C8.url = media/panorama_2BB939D9_2799_317B_41B5_76DEBBC71552_HS_ed39zicj_zh.webp
 imlevel_7E339A4B_603B_BA0E_41D0_84FA83AC939B.url = media/panorama_2BB94F64_279B_3148_418C_8C4C86398FB6_HS_bwdhbuau_zh.webp
-imlevel_CDBB8025_89DD_647D_41D8_D5E8E59675B4.url = media/panorama_2BB94F64_279B_3148_418C_8C4C86398FB6_HS_kd07kndd_zh.webp
+imlevel_9780603D_8B73_A86E_41C2_BD13E4406BFA.url = media/panorama_2BB94F64_279B_3148_418C_8C4C86398FB6_HS_kd07kndd_zh.webp
 imlevel_32694B3C_2FCF_CFF2_41B2_EF5CAF5F16BE.url = media/panorama_2BB95375_279B_7148_41C0_A88058C1E601_HS_0mzeb264_zh.webp
 imlevel_326AAB95_2FCF_CEB3_41C1_86A5AE7DA253.url = media/panorama_2BB95375_279B_7148_41C0_A88058C1E601_HS_v5u797h6_zh.webp
 imlevel_3245F845_2FCF_C992_4192_2633E2138462.url = media/panorama_2BB95C11_279B_16C8_41BE_7CC737A5FBBE_HS_9dh1tt53_zh.webp
-imlevel_C8BCB885_8A7A_E432_41AA_F9E7EB1E9B9D.url = media/panorama_2BB95C11_279B_16C8_41BE_7CC737A5FBBE_HS_eg4fji20_zh.webp
-imlevel_C81FDCAB_8A2B_DC75_41D3_B5593842708A.url = media/panorama_2BB95C11_279B_16C8_41BE_7CC737A5FBBE_HS_tj8e54ho_zh.webp
+imlevel_AA08D8BA_8B73_986A_41DD_4A849744D021.url = media/panorama_2BB95C11_279B_16C8_41BE_7CC737A5FBBE_HS_eg4fji20_zh.webp
+imlevel_AA0D1CB4_8B73_987E_41DF_B23A87ECAF49.url = media/panorama_2BB95C11_279B_16C8_41BE_7CC737A5FBBE_HS_tj8e54ho_zh.webp
 imlevel_327DA984_2FCF_CA91_41C6_64E837933D68.url = media/panorama_2BB9695B_279B_1178_41B0_20518E887D66_HS_03cjgptb_zh.webp
 imlevel_327F7A10_2FCF_C9B1_41A6_8A7708F9FAFA.url = media/panorama_2BB9695B_279B_1178_41B0_20518E887D66_HS_fpjrujru_zh.webp
 imlevel_3273DA98_2FCF_CEB1_41BC_E57B4048EC0D.url = media/panorama_2BB9695B_279B_1178_41B0_20518E887D66_HS_nligjoyc_zh.webp
-imlevel_CBF8DC23_89E5_BC76_41D7_AADEE82E7BB7.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_2z5j3ihs_zh.webp
+imlevel_92467BF4_8B56_BFCE_41D7_AD57935317B5.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_2z5j3ihs_zh.webp
 imlevel_0CC01786_2FCF_C691_41B3_8418904A5677.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_jhjib6st_zh.webp
-imlevel_C4912EB2_89EB_5C56_41BD_553ACF6CC255.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_ky1riyqi_zh.webp
-imlevel_D912BBA7_89FE_A47E_41C1_BFB86C886C53.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_myhrmex8_zh.webp
+imlevel_93A02BA1_8AAE_B854_41DD_D2BDDD2DD21A.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_mnlxed61_zh.webp
+imlevel_9249B2C5_8B56_A9CE_41C1_A9458525A7B1.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_myhrmex8_zh.webp
 imlevel_3243F80E_2FCF_C9AE_41C4_F5A793202615.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_ngdxtn25_zh.webp
-imlevel_C4AFB1AC_89EB_6472_41C7_81CCCCBC94CF.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_rb93fk3j_zh.webp
-imlevel_C9879E29_89E5_BC72_41CA_1EE591772C70.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_ud2adm77_zh.webp
-imlevel_DA2D2043_89EB_6435_41DF_F5358391B691.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_y08px3hh_zh.webp
+imlevel_9CCB7084_8B56_A84E_4194_CCDAEBC3EFB9.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_rb93fk3j_zh.webp
+imlevel_9245DE11_8B56_B849_41CD_51EDFEBB53D3.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_ud2adm77_zh.webp
+imlevel_9CC46F55_8B56_B8C9_41CF_00BA3F88E5E8.url = media/panorama_2BB997D3_279B_F148_41AC_E4553FA8E07D_HS_y08px3hh_zh.webp
 imlevel_45A4C18E_603B_8606_41C8_DA0D06E17796.url = media/panorama_2BBB5AA1_2799_13C8_41B6_00C82E783674_HS_zyc75l4l_zh.webp
 imlevel_32658CE6_2FCF_CA9E_41BE_0E0B6196E51E.url = media/panorama_2BBB8153_2799_1148_4187_4917288041F6_HS_9d7h6y2h_zh.webp
 imlevel_7E025B5F_603B_9A06_41D3_4C6A6FF5C7FD.url = media/panorama_2BBB92F4_2799_1348_41BC_5FD301529028_HS_o6bflck5_zh.webp
@@ -113,21 +113,21 @@ imlevel_7E0EC820_603B_863A_41C0_07BCA728BAE4.url = media/panorama_2BBBEA18_2799_
 imlevel_2B14356A_329F_6EA5_41C5_01B2AD11170B.url = media/panorama_2BBD049B_279B_17F8_4185_4633096C4EF9_HS_jj74iu7l_zh.webp
 imlevel_0D53B445_2FCE_3992_41A0_3689B1913767.url = media/panorama_2BBD049B_279B_17F8_4185_4633096C4EF9_HS_yasiqopj_zh.webp
 imlevel_44C0C77C_603B_8A0A_41CA_F74248979349.url = media/panorama_2BBD049B_279B_17F8_4185_4633096C4EF9_HS_zfmeqvo5_zh.webp
-imlevel_C9F599CF_8A2E_A7CE_41D9_BCACD67D2347.url = media/popup_B501DBF4_8A2F_DBD3_41B8_702A8D8B7A25_zh_0_0.webp
-imlevel_C9F5A9D1_8A2E_A7D2_41D7_8D7A381AED7D.url = media/popup_B501DBF4_8A2F_DBD3_41B8_702A8D8B7A25_zh_0_1.webp
-imlevel_C9F5B9D3_8A2E_A7D6_41D3_D064D9B24122.url = media/popup_B501DBF4_8A2F_DBD3_41B8_702A8D8B7A25_zh_0_2.webp
-imlevel_C9F5C9D3_8A2E_A7D6_41C6_4BCB27FE3B48.url = media/popup_B501DBF4_8A2F_DBD3_41B8_702A8D8B7A25_zh_0_3.webp
-imlevel_C9F5D9D4_8A2E_A7D2_41BB_88CE015D51D7.url = media/popup_B501DBF4_8A2F_DBD3_41B8_702A8D8B7A25_zh_0_4.webp
-imlevel_B1C4F169_8AED_68FE_41D1_69E86898FF7D.url = media/popup_B62D56F8_8AEB_69DF_41D7_6408D6E505B1_zh_0_0.webp
-imlevel_B1C4D16B_8AED_68F2_41C9_94C88EE24DC1.url = media/popup_B62D56F8_8AEB_69DF_41D7_6408D6E505B1_zh_0_1.webp
-imlevel_C6FAE711_8EDD_6C52_41E1_0820BA442675.url = media/popup_C6A46197_8EDF_645C_41E0_164D08CA3F35_zh_0_0.webp
-imlevel_C6FAD712_8EDD_6C56_41CB_343ED1D8EA28.url = media/popup_C6A46197_8EDF_645C_41E0_164D08CA3F35_zh_0_1.webp
-imlevel_C6FAC714_8EDD_6C53_41AC_98331B6B87C6.url = media/popup_C6A46197_8EDF_645C_41E0_164D08CA3F35_zh_0_2.webp
-imlevel_C9E2076F_8A2E_ACCD_4189_7E8A318D58EF.url = media/popup_CD2A43DC_8AFD_6FD6_41C1_C6A63DC0E2C4_zh_0_0.webp
-imlevel_C9E23773_8A2E_ACD6_41BB_C3048EB70A61.url = media/popup_CD2A43DC_8AFD_6FD6_41C1_C6A63DC0E2C4_zh_0_1.webp
-imlevel_FAA8C6C8_8EEA_AC32_41E0_3A0CC7598F5B.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_0.png
-imlevel_FAA8E6CC_8EEA_AC32_41DD_95141E55EF8A.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_1.png
-imlevel_FAA916D1_8EEA_ADD2_4187_0CA3767490C5.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_2.png
+imlevel_92E9F29F_8AD3_A9AB_41D9_DFB2B87758EB.url = media/popup_B501DBF4_8A2F_DBD3_41B8_702A8D8B7A25_zh_0_0.webp
+imlevel_92E9C29F_8AD3_A9AB_41D8_2A1981D7D618.url = media/popup_B501DBF4_8A2F_DBD3_41B8_702A8D8B7A25_zh_0_1.webp
+imlevel_92E8329F_8AD3_A9AB_41D9_28B13E0A0CD5.url = media/popup_B501DBF4_8A2F_DBD3_41B8_702A8D8B7A25_zh_0_2.webp
+imlevel_92E822A0_8AD3_A995_41C9_B964DCAA31A2.url = media/popup_B501DBF4_8A2F_DBD3_41B8_702A8D8B7A25_zh_0_3.webp
+imlevel_92E802A0_8AD3_A995_41D2_E60BCC74BA75.url = media/popup_B501DBF4_8A2F_DBD3_41B8_702A8D8B7A25_zh_0_4.webp
+imlevel_92FA1687_8AD3_A99C_41CA_CE403997C369.url = media/popup_B62D56F8_8AEB_69DF_41D7_6408D6E505B1_zh_0_0.webp
+imlevel_92FA0687_8AD3_A99C_41B8_F3BCFFF44D69.url = media/popup_B62D56F8_8AEB_69DF_41D7_6408D6E505B1_zh_0_1.webp
+imlevel_9D0276A3_8AD3_A99B_41DD_87D7C1FDAB92.url = media/popup_C6A46197_8EDF_645C_41E0_164D08CA3F35_zh_0_0.webp
+imlevel_9D0256A3_8AD3_A99B_4183_F179E5929936.url = media/popup_C6A46197_8EDF_645C_41E0_164D08CA3F35_zh_0_1.webp
+imlevel_9D02A6A4_8AD3_A99D_41C4_C9BD054922C3.url = media/popup_C6A46197_8EDF_645C_41E0_164D08CA3F35_zh_0_2.webp
+imlevel_92E3D460_8AD3_A895_419D_C2A385EDA76D.url = media/popup_CD2A43DC_8AFD_6FD6_41C1_C6A63DC0E2C4_zh_0_0.webp
+imlevel_92E3C461_8AD3_A897_41D8_99C68CAEC307.url = media/popup_CD2A43DC_8AFD_6FD6_41C1_C6A63DC0E2C4_zh_0_1.webp
+imlevel_B8C08766_8B72_A857_41DC_51547AFE1F26.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_0.png
+imlevel_B8C02768_8B72_A85B_41C1_97D177B935C6.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_1.png
+imlevel_B8C0376A_8B72_A85F_41E1_61808C732C1B.url = media/zoomImage_B2B2C143_8A2F_E832_41BB_2C79F733F1A5_zh_0_2.png
 
 ### 平面圖
 
@@ -191,7 +191,7 @@ htmlText_CE82B761_89DB_ACF5_41AA_8DA1B5757D23.html = <div style="text-align:left
 htmlText_FA2CB7C7_8E3D_6C3E_41CA_A0C759C017D6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'GenYoMin2 PJP R';"><B>食 Food</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'GenYoMin2 PJP R';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'GenYoMin2 PJP R';">高熱量與便攜！極地野外的能量補給</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'GenYoMin2 PJP R';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'GenYoMin2 PJP R';">High Calories and Portability: Energy Supply in the Polar Wilderness</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'GenYoMin2 PJP R';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'GenYoMin2 PJP R';">在極端酷寒的極地環境下，人體為了維持體溫與體能，每日需消耗大量熱量，飲食熱量需求遠高於一般日常。考察隊員在野外主要依賴高熱量、高蛋白質、重量輕且易於保存的食品，包含乾燥脫水餐包、高能量棒、巧克力、堅果以及各式耐寒罐頭。在野外營地中，隊員利用輕便的野外爐具融雪取水、快速加熱餐點，熱騰騰的食物不僅能迅速補充流失的體力，更是抵禦嚴寒、撫慰身心並提振士氣的重要來源。</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'GenYoMin2 PJP R';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'GenYoMin2 PJP R';">In the freezing polar environment, the human body burns massive amounts of calories simply to maintain core body temperature and stamina, requiring far higher daily caloric intake than usual. Fieldwork rations consist primarily of high-calorie, protein-rich, lightweight, and shelf-stable foods, such as freeze-dried meals, high-energy bars, chocolates, nuts, and preserved rations. In field camps, researchers use portable expedition stoves to melt snow for drinking water and reconstitute hot meals. These warm rations not only rapidly replenish energy reserves, but also provide vital psychological comfort and boost team morale against the grueling cold.</SPAN></SPAN></DIV></BODY></HTML></div>
 htmlText_C4D814F8_89FA_EDD2_41DD_34BA84D9D27F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>一百年 ──── 來的探索</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">A Century of Exploration</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>跨越 180° 緯度的 ──── 極地探險</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Polar Expeditions Across 180° Degrees of Latitude</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;">便簽：“就像一本歷史書”</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The notes appear as "like a book of history"</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">嚴寒氣候與險惡環境，仍難以阻擋世代探險家們前進的步伐，探索這片未知的國度。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">不管是成功時的喜悅，或是面對挫折的沮喪，過往的人們留下的足跡，在雪白的頁面上寫下一頁又一頁動人的篇章。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>現在，</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>就讓我們跟隨他們的腳步，</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>一起走進這片由無數勇氣所書寫的世界。</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Harsh climates and unforgiving environments have never stopped generations of adventurers from setting out to explore these unknown lands.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Through the joys of triumph and the frustration of failure, those who came before us left their footprints across these white pages, writing one stirring chapter after another.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Now, let us follow in their footsteps and step into a world shaped by countless dramatic acts of courage.</SPAN></DIV></BODY></HTML></div>
 htmlText_B7A71BAD_89ED_6472_4189_D34318134998.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1845 西北航道的「幽冥號」與「驚恐號」</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1845: The Northwest Passage - "HMS Erebus" and "HMS Terror"</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         5月19日，約翰·富蘭克林率133人尋找西北航道，受困冰層。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         富蘭克林於1847年病逝，最終全隊129人因環境嚴酷全數罹難，無人生還。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         Sir John Franklin led a crew of 133 to find the Northwest Passage but became trapped in thick ice. Franklin passed away in 1847. Due to the brutal Arctic conditions, all 129 remaining members eventually perished, leaving no survivors.</SPAN></DIV></BODY></HTML></div>
-htmlText_C23C5032_89E5_E456_41CF_A768E07D5947.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1893「前進號」與北極漂流</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1893: The "Fram" and the North Pole Drift</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         為達北極，南森率領探險隊搭乘特製的「前進號」出發，利用洋流冰封漂流探索北極。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         1895年他改用雪橇抵達北緯86°14′，刷新最北紀錄，為極地研究奠定重要基礎。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         Fridtjof Nansen set sail on the specially designed ship Fram, intending to reach the North Pole by drifting with the moving sea ice. In 1895, he continued on foot by sled and reached 86°14'N, setting a new record for the farthest north and providing vital data for polar research.</SPAN></DIV></BODY></HTML></div>
+htmlText_964CDD86_8AB2_9867_41D5_D9E374609F69.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1893「前進號」與北極漂流</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1893: The "Fram" and the North Pole Drift</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         為達北極，南森率領探險隊搭乘特製的「前進號」出發，利用洋流冰封漂流探索北極。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">        1895年他改用雪橇抵達北緯86°14′，刷新最北紀錄，為極地研究奠定重要基礎。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         Fridtjof Nansen set sail on the specially designed ship Fram, intending to reach the North Pole by drifting with the moving sea ice. In 1895, he continued on foot by sled and reached 86°14'N, setting a new record for the farthest north and providing vital data for polar research.</SPAN></DIV></BODY></HTML></div>
 htmlText_B778E0FB_89DA_A5D6_4198_66E102124276.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1897 氣球「老鷹號」</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1897: The Balloon "Ørnen"</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         瑞典工程師，薩爾蒙·奧古斯特·安德烈嘗試搭乘氣球抵達北極。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         任務失敗後失蹤，直到33年後，人們才在史匹茲卑爾根北部發現三位參與者的遺體。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         Swedish engineer Salomon August Andrée attempted to reach the North Pole by hydrogen balloon. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         The mission failed and the crew vanished. It was not until 33 years later that their remains and equipment were finally discovered in northern Spitsbergen.</SPAN></DIV></BODY></HTML></div>
 htmlText_C5964136_89EB_A45F_41C1_1CCE0D852579.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1904 設立採取鯨油的基地</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1904: The Whaling Hub of Grytviken</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">        古利德維肯成為島上最大的鯨油加工基地，曾有數萬頭鯨魚在此慘遭屠殺取油。這座數百人進駐的工業據點，除設有教會外，亦是探險家沙克爾頓長眠的歷史見證地。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">         Established as a whale oil station, Grytviken grew into the island's largest industrial center. Over the following decades, tens of thousands of whales were slaughtered here for their oil. Beyond the factories, this site housed hundreds of workers, a historic church, and the final resting place of the great explorer, Sir Ernest Shackleton.</SPAN></DIV></BODY></HTML></div>
 htmlText_C3AF41A4_89DE_E473_41D1_5177F6CD40ED.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1911 南極點的競賽</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>南極點的競賽 兩支偉大探險隊的故事</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>1911: The Race to the South Pole</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">        阿蒙森與史考特展開南極點競賽。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">        阿蒙森憑藉犬隊於12月率先抵達；晚了一步的史考特團隊則因體力耗盡與暴風雪，在返程中全數罹難。</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">       兩位先驅的傳奇，永存於今日的科學站中。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">       Roald Amundsen and Robert Scott began their legendary race to the South Pole. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">       Amundsen's team used agile dog sleds to reach the pole first in December. Tragically, Scott arrived later and perished during the return journey due to physical exhaustion and fierce blizzards. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">      Today, the Amundsen-Scott South Pole Station stands as a lasting tribute to these pioneering explorers.</SPAN></DIV></BODY></HTML></div>
@@ -220,6 +220,10 @@ LinkBehaviour_A6F9CD1C_8556_F0EA_41D7_63B7A4A283F1.source = https://youtube.com/
 ## 熱點
 
 ### 文字
+QuadHotspotPanoramaOverlayTextImage_D3BE519C_8A2A_A452_41D0_4876B8C24ED5.text =  \
+
+QuadHotspotPanoramaOverlayTextImage_92FB498B_8AB1_7867_41BE_48FA7C2A6290.text =  \
+
 HotspotPanoramaOverlayTextImage_21C843F2_3295_A9A5_41C2_219FCD6075C4.text =        \
         一百年來，即使極地氣候惡劣不堪，仍 無法阻擋冒險者前仆後繼地前往北極與南極，來到這個「就像一本歷史書」的未知國度。 \
  \
@@ -233,90 +237,69 @@ HotspotPanoramaOverlayTextImage_394E21C1_29C6_5A93_41BF_4D6D2F04C50F.text =     
 HotspotPanoramaOverlayTextImage_CE2BD766_8E3F_ACFE_41D3_AF1A63EDFEF7.text = 住
 HotspotPanoramaOverlayTextImage_3C536FF1_29CE_4673_41BD_EFF9BDA0DE56.text = 入口
 HotspotPanoramaOverlayTextImage_0CAFF7F8_2E43_C672_41B5_B6F5204055B4.text = 南北極有甚麼不同
-HotspotPanoramaOverlayTextImage_0CB39BE8_2E46_4E91_418F_F3C3B6FED610.text = 台灣極地觀測站
 HotspotPanoramaOverlayTextImage_0C9BF682_2E42_C696_41B3_7D6C4ADCCA1E.text = 台灣極地觀測站
+HotspotPanoramaOverlayTextImage_0CB39BE8_2E46_4E91_418F_F3C3B6FED610.text = 台灣極地觀測站
 HotspotPanoramaOverlayTextImage_0C23ACA9_2EC1_CA93_41A3_C3209A43D0EA.text = 如果冰還在
 QuadHotspotPanoramaOverlayTextImage_7CA49419_603F_8E0A_41D0_12FFF07948A4.text = 播放影片
 QuadHotspotPanoramaOverlayTextImage_7CF8DFBB_6038_9A0E_41D4_37DB991A008D.text = 播放影片
 QuadHotspotPanoramaOverlayTextImage_7D52A147_6038_8607_418E_79EB48777E3D.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7C9AC24F_603B_8A06_4192_EC446CF29D9A.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7C85D4FE_6038_8E06_41CF_502CEACDCF6E.text = 播放影片
 QuadHotspotPanoramaOverlayTextImage_7CBA05DF_60C8_8E07_4180_6022CB320191.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7EA7C4BB_60C7_8E0E_4199_B9E9E024C904.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_4199EE26_60C8_BA39_41AB_26451F23EC27.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7D0C03CD_60D8_8A0A_41D2_B06E9ABBBEE1.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7D4A7FC0_60C8_9A7B_41C7_DA4DE8B9E0BB.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_4375A3DF_60C9_8A07_41A2_8C9DD40EC4D8.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_41A5A06C_60C8_860A_41C1_E0B4EBE3E635.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7F4A9266_60C8_8A06_41C8_2F77D4E8BC1D.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7CA9F486_60C9_8E06_41D4_AAB95D7E5BAB.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_403A2705_60C8_8BFA_41D7_7C030993ABCB.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7CCAAF7E_60C8_7A06_41A9_E41F98742FE5.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7CA40CCC_6039_BE0A_41CB_E4BC39628DC5.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7D52B352_60D8_8A1E_41C6_64D8CB8C7CEE.text = 播放影片
 QuadHotspotPanoramaOverlayTextImage_7CAF3719_6038_8A0A_41A2_8EE1323EEA81.text = 播放影片
 QuadHotspotPanoramaOverlayTextImage_7FB5FAE3_60C7_9A3E_41C8_8BB4E2C41D8A.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7C5B29B3_60D9_861F_41BE_2A9554A19DAC.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7E41A5A5_60CB_8E3A_41C8_F222F2B143AE.text = 播放影片
 QuadHotspotPanoramaOverlayTextImage_7CA4276F_60CF_8A06_41CD_323450E2AEC5.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7E41A5A5_60CB_8E3A_41C8_F222F2B143AE.text = 播放影片
 QuadHotspotPanoramaOverlayTextImage_7CABA07B_60C9_860E_41C6_D452F8341B1E.text = 播放影片
-QuadHotspotPanoramaOverlayTextImage_7D52B352_60D8_8A1E_41C6_64D8CB8C7CEE.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7CCAAF7E_60C8_7A06_41A9_E41F98742FE5.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7CA40CCC_6039_BE0A_41CB_E4BC39628DC5.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7EA7C4BB_60C7_8E0E_4199_B9E9E024C904.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7D0C03CD_60D8_8A0A_41D2_B06E9ABBBEE1.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_4375A3DF_60C9_8A07_41A2_8C9DD40EC4D8.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_403A2705_60C8_8BFA_41D7_7C030993ABCB.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_41A5A06C_60C8_860A_41C1_E0B4EBE3E635.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7C9AC24F_603B_8A06_4192_EC446CF29D9A.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7F4A9266_60C8_8A06_41C8_2F77D4E8BC1D.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7C5B29B3_60D9_861F_41BE_2A9554A19DAC.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7CA9F486_60C9_8E06_41D4_AAB95D7E5BAB.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7D4A7FC0_60C8_9A7B_41C7_DA4DE8B9E0BB.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_4199EE26_60C8_BA39_41AB_26451F23EC27.text = 播放影片
+QuadHotspotPanoramaOverlayTextImage_7C85D4FE_6038_8E06_41CF_502CEACDCF6E.text = 播放影片
 HotspotPanoramaOverlayTextImage_33C14A85_2EC6_4E92_4181_4CDF595434B7.text = 斯瓦爾巴世界種子庫
 HotspotPanoramaOverlayTextImage_0C995574_2E7F_FA71_41C4_6123D560BF6E.text = 斯瓦爾巴世界種子庫
 HotspotPanoramaOverlayTextImage_014A46C2_2BB7_76E1_41C1_352A6FBB4785.text = 極光互動 \
  \
 
-HotspotPanoramaOverlayTextImage_0F0A8828_2E42_4991_41C0_81297EBC40B5.text = 極光體驗區
-HotspotPanoramaOverlayTextImage_339F20B4_2EC2_7AF1_41B3_303D59B58239.text = 極光體驗區
 HotspotPanoramaOverlayTextImage_03B3CAB1_2BB7_1EA0_4189_325567CE8EC6.text = 極光體驗區
-HotspotPanoramaOverlayTextImage_0DEEBE09_2EDE_4992_41A1_E37EC0C5568E.text = 極地崩潰倒數
+HotspotPanoramaOverlayTextImage_339F20B4_2EC2_7AF1_41B3_303D59B58239.text = 極光體驗區
+HotspotPanoramaOverlayTextImage_0F0A8828_2E42_4991_41C0_81297EBC40B5.text = 極光體驗區
 HotspotPanoramaOverlayTextImage_33C4B18A_2E46_5A91_41B0_11E700F1BD18.text = 極地崩潰倒數
-HotspotPanoramaOverlayTextImage_333C3694_2E4E_46B2_41B2_FBDA60CB3CC6.text = 極地巨星
+HotspotPanoramaOverlayTextImage_0DEEBE09_2EDE_4992_41A1_E37EC0C5568E.text = 極地崩潰倒數
 HotspotPanoramaOverlayTextImage_0CC614A7_2FCE_FA9F_41A8_9918C07E1700.text = 極地巨星
+HotspotPanoramaOverlayTextImage_333C3694_2E4E_46B2_41B2_FBDA60CB3CC6.text = 極地巨星
 HotspotPanoramaOverlayTextImage_339022EE_2EC2_5E91_41C0_A6DA9F3124A4.text = 極地巨星
 HotspotPanoramaOverlayTextImage_0C322C0C_2E46_C992_41B0_C9F84F2AA0DE.text = 極地探險
-HotspotPanoramaOverlayTextImage_3379DD4A_2E42_4B91_41AD_BA3196A3A36D.text = 極地探險
 HotspotPanoramaOverlayTextImage_3318DE1F_2E42_C9AE_41BF_59A27D4E0D47.text = 極地探險
-HotspotPanoramaOverlayTextImage_339E9C13_2ECE_49B7_41A9_C2DC4308B3AB.text = 極地生態區
+HotspotPanoramaOverlayTextImage_3379DD4A_2E42_4B91_41AD_BA3196A3A36D.text = 極地探險
 HotspotPanoramaOverlayTextImage_33BA30C7_2E42_7A9E_41BE_BFE7EF8B0530.text = 極地生態區
-HotspotPanoramaOverlayTextImage_0C224661_2E3E_3992_41BA_7E11EC5041F4.text = 極地研究站
+HotspotPanoramaOverlayTextImage_339E9C13_2ECE_49B7_41A9_C2DC4308B3AB.text = 極地生態區
 HotspotPanoramaOverlayTextImage_33685955_2E4E_4BB2_41AD_496016E1C016.text = 極地研究站
-HotspotPanoramaOverlayTextImage_0E08E652_2FCE_39B6_4172_910FB1DBAD9A.text = 極地補給站
+HotspotPanoramaOverlayTextImage_0C224661_2E3E_3992_41BA_7E11EC5041F4.text = 極地研究站
 HotspotPanoramaOverlayTextImage_0CFBE155_2E46_3BB3_41AA_06EE6EE44737.text = 極地補給站
-HotspotPanoramaOverlayTextImage_0C017786_2E3E_C691_41BE_CEA4E0E2ECDD.text = 極地體驗區
+HotspotPanoramaOverlayTextImage_0E08E652_2FCE_39B6_4172_910FB1DBAD9A.text = 極地補給站
 HotspotPanoramaOverlayTextImage_0D8CECAD_2E42_4A93_4181_3EB9D7963D1B.text = 極地體驗區
+HotspotPanoramaOverlayTextImage_0C017786_2E3E_C691_41BE_CEA4E0E2ECDD.text = 極地體驗區
 HotspotPanoramaOverlayTextImage_C5C41426_8E3A_EC7E_41AD_49D0AEA74325.text = 樂
-QuadHotspotPanoramaOverlayTextImage_C2359031_89E5_E452_41D9_00A8A483052C.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_B720BB1E_89E5_A44E_41AB_040A0B7457F6.text = 檢視
 QuadHotspotPanoramaOverlayTextImage_C273CE82_8EDF_BC37_41BF_F8118FFA4FD9.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_E663F883_8E2E_A435_41CA_E6787B15C0DF.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_B76E20F8_89DA_A5D3_41DE_7DC82981F87B.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_FA2D57C6_8E3D_6C3E_41D8_2ACA275A4117.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_D198C193_8E26_A456_41D1_463D230432B8.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_B7ACABAB_89ED_6476_41D0_8F9E40556F00.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_CE876760_89DB_ACF3_41C9_B28052CC2F4C.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_B7F743F7_89DE_ABDE_41D6_7A6543175CAF.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_D3BE519C_8A2A_A452_41D0_4876B8C24ED5.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_C89BB3D5_8A7E_ABD2_41D2_857726533B67.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_C3AF71A4_89DE_E472_41D1_BEB762044FCC.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_C7EAA9BE_8A25_644E_41C5_AC776ECFCB2D.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_CE27D747_8A27_AC3E_41CF_C37462B9D517.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_DED174F4_8A2E_ADD2_41B7_52EA96B4F099.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_B4E2859B_8A26_EC55_41DE_099767E049FE.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_B7A4DA66_8A6A_A4FE_41D7_954494187DC6.text = 檢視
 QuadHotspotPanoramaOverlayTextImage_C4AE74F6_89FA_EDDE_41C8_764A59CEAD22.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_B35F7D95_8A2F_5C52_41DC_6659DB5F1BBB.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_C5961136_89EB_A45F_41E0_6EA3D9A0E040.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_B1225643_8AEB_6831_41D3_B5E4E2ED2289.text = 檢視
-QuadHotspotPanoramaOverlayTextImage_B7696AAE_8A25_5872_41C0_CB0CE8E4A997.text = 檢視
 HotspotPanoramaOverlayTextImage_C71EC038_8E3D_6452_41DF_F8854250C22A.text = 行 \
 
 HotspotPanoramaOverlayTextImage_DF9A95E7_8E3B_6FFD_41CA_3033B5B577AC.text = 衣
 HotspotPanoramaOverlayTextImage_0C1BA002_2E43_F991_41B1_6169113AEE8F.text = 返回入口
 HotspotPanoramaOverlayTextImage_3380F6C3_2EC1_C696_41BD_DAC3AEBD7366.text = 離開極光體驗區
-HotspotPanoramaOverlayTextImage_0C94B47C_2E42_5A71_4177_1CB9B6DA58E6.text = 零下日誌
 HotspotPanoramaOverlayTextImage_0CED7C3A_2E46_49F6_417B_C6A622FF4F51.text = 零下日誌
-HotspotPanoramaOverlayTextImage_0C4E14E5_2EC6_5A92_41AF_1FE3ACF29130.text = 零下日誌
+HotspotPanoramaOverlayTextImage_0C94B47C_2E42_5A71_4177_1CB9B6DA58E6.text = 零下日誌
 HotspotPanoramaOverlayTextImage_331867D2_2E41_C6B1_41C5_20C7BF2A1817.text = 零下日誌
+HotspotPanoramaOverlayTextImage_0C4E14E5_2EC6_5A92_41AF_1FE3ACF29130.text = 零下日誌
 HotspotPanoramaOverlayTextImage_C37A522D_8E3D_6472_41D4_501724521F88.text = 食
 
 ## 線上學習
